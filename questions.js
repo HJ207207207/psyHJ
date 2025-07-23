@@ -7,7 +7,7 @@ const questions = [
         text: "중요한 의사결정을 할 때 나는...",
         options: [
             { text: "직감과 본능을 따른다", type: "R", score: 3 },
-            { text: "동료의 기분이나 팀 분위기를 고려한다", type: "L", score: 3 },
+            { text: "팀원들의 기분이나 감정 상태를 살핀 후 결정한다", type: "L", score: 3 },
             { text: "데이터와 논리적 분석을 기반으로 한다", type: "N", score: 3 }
         ]
     },
